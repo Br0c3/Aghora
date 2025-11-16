@@ -16,5 +16,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Br0c3/Aghora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Br0c3/Aghora/issues"
+  },
+  "homepage": "https://github.com/Br0c3/Aghora#readme",
   "description": ""
 }
